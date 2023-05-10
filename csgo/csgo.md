@@ -1,0 +1,12 @@
+#### CS:GO
+- about game
+- ranked pros and cons
+	- Prime (paid) vs regular accoount
+	- cheats are bigger issue than in valorant
+	- sniping
+- ESEA
+	- 2003
+- FACEIT
+	- 2012
+	- FPL - https://pro.faceit.com/about-fpl/
+		- had shady stuff too https://youtu.be/phECzD41plI?t=527
