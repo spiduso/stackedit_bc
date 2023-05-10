@@ -8,13 +8,13 @@
 - similarity to CS:GO
 - streaming
 - pro play
-- Issues with Valo and streaming
+- Issues with Valorant and streaming
 - smurfing
 - queue sniping
-	- valorant added name hiding -> prevents people ingame to recognize streamer and then go stream snipe, but does not prevent the other way around
+	- valorant added name hiding -> prevents people in-game to recognize streamer and then go stream snipe, but does not prevent the other way around
 - stream sniping
-	- sniping is still a thing because noone can confirm sniping
-	- players hide minimaps
+	- sniping is still a thing because no one can confirm sniping
+	- players hide minimap
 - crypto throwing
 	- betting sites are not public, since its against valorant rules and thats why we can sometimes only see tweets about it 
 	- RRV clan

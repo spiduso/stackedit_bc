@@ -1,12 +1,13 @@
-- Introduction
-- Valorant
+# Content of Bachelor's thesis
+- [Introduction](github.com/spiduso/stackedit_bc/blob/main/introduction.md)
+- [Valorant](https://github.com/spiduso/stackedit_bc/blob/main/valorant/valorant.md)
 	- about game
 	- ranked pros and cons
  
 because Valorant is relatively a new game compared to other games, let's check other games solution so far
 
 - Solution in other games
-	- 	- [CS:GO](https://github.com/spiduso/stackedit_bc/blob/main/csgo/csgo.md)
+	- [CS:GO](https://github.com/spiduso/stackedit_bc/blob/main/csgo/csgo.md)
 		- about game 
 		- ranked pros and cons
 		- ESEA, FACEIT pros and cons
