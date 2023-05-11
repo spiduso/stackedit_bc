@@ -1,33 +1,34 @@
-#### Apex Legends
+# Apex Legends
+
 - gameplay - battle royale
-- ranked stats S8 - https://www.ea.com/games/apex-legends/news/legacy-ranked
-- new cheats - https://www.youtube.com/watch?v=HCcUAElkJok
-- old cheat speedhacking - https://clips.twitch.tv/SuperSecretiveChimpanzeeBlargNaut
+- ranked stats S8 - <https://www.ea.com/games/apex-legends/news/legacy-ranked>
+- new cheats - <https://www.youtube.com/watch?v=HCcUAElkJok>
+- old cheat speedhacking - <https://clips.twitch.tv/SuperSecretiveChimpanzeeBlargNaut>
 - issues
-	- streamsniping
-	- OTP that are not META champs
-	- cheating 
-		- cheaters can be banned
-			- long time problem - https://twitter.com/HisWattson/status/1540490443091283969
-			- pro players can contact devs 
-				- during game ban - https://www.youtube.com/watch?v=nJOCnNzKOHA
+  - streamsniping
+  - OTP that are not META champs
+  - cheating
+    - cheaters can be banned
+      - long time problem - <https://twitter.com/HisWattson/status/1540490443091283969>
+      - pro players can contact devs
+        - during game ban - <https://www.youtube.com/watch?v=nJOCnNzKOHA>
 - Apex realm league
-	- more info - https://twitter.com/therealm_gg, https://about-us.therealm.gg
-	- daily and end of season rewards
-	- 16+ and Masters and Apex rank only (750+) + some NA na EMEA countries (0.04% players in this rank in S8)
-	- only at 2 PM to 8 PM CET in EMEA (not collide with scrims + get as much players as possible)
-	- currently 459 players in EMEA, 441 in NA
-	- SoloQ cancelled - https://www.youtube.com/watch?v=yfG-8v-KaQk
-	- teamQ 15th May - https://twitter.com/therealm_gg/status/1653861282842570752
-	- issues
-		- can easily gain advantage by streamsniping - https://www.youtube.com/watch?v=w60aNIJ-FUU, https://twitter.com/therealm_gg/status/1649075901899087873
-	- not perfect for pro players
-		- OTP
-		- skill difference
-		- only soloQ -> coordination is very important
-		- big prizepool
-	- expanding to Fortnite and CoD soon
-- Fortnite is conceptually similar game but doesn't have any solution (https://twitter.com/FNPPA)
-	- Ninja stream sniped every day
-		- friendly stream snipers
-	- Tarik played fortnite and happened too 
+  - more info - <https://twitter.com/therealm_gg>, <https://about-us.therealm.gg>
+  - daily and end of season rewards
+  - 16+ and Masters and Apex rank only (750+) + some NA na EMEA countries (0.04% players in this rank in S8)
+  - only at 2 PM to 8 PM CET in EMEA (not collide with scrims + get as much players as possible)
+  - currently 459 players in EMEA, 441 in NA
+  - SoloQ cancelled - <https://www.youtube.com/watch?v=yfG-8v-KaQk>
+  - teamQ 15th May - <https://twitter.com/therealm_gg/status/1653861282842570752>
+  - issues
+    - can easily gain advantage by streamsniping - <https://www.youtube.com/watch?v=w60aNIJ-FUU>, <https://twitter.com/therealm_gg/status/1649075901899087873>
+  - not perfect for pro players
+    - OTP
+    - skill difference
+    - only soloQ -> coordination is very important
+    - big prizepool
+  - expanding to Fortnite and CoD soon
+- Fortnite is conceptually similar game but doesn't have any solution (<https://twitter.com/FNPPA>)
+  - Ninja stream sniped every day
+    - friendly stream snipers
+  - Tarik played fortnite and happened too 

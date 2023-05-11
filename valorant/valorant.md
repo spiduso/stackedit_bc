@@ -1,27 +1,28 @@
-#### Valorant
+# Valorant
+
 - gameplay
 - modes
-	- unrated
-	- competitive mode
-		- rank system
-	- other fun modes
+  - unrated
+  - competitive mode
+    - rank system
+  - other fun modes
 - similarity to CS:GO
 - streaming
 - pro play
 - Issues with Valorant and streaming
 - smurfing
 - queue sniping
-	- valorant added name hiding -> prevents people in-game to recognize streamer and then go stream snipe, but does not prevent the other way around
+  - valorant added name hiding -> prevents people in-game to recognize streamer and then go stream snipe, but does not prevent the other way around
 - stream sniping
-	- sniping is still a thing because no one can confirm sniping
-	- players hide minimap
+  - sniping is still a thing because no one can confirm sniping
+  - players hide minimap
 - crypto throwing
-	- betting sites are not public, since its against valorant rules and thats why we can sometimes only see tweets about it 
-	- RRV clan
-	- https://twitter.com/WedidOfficial/status/1561138703417868289
+  - betting sites are not public, since its against valorant rules and thats why we can sometimes only see tweets about it 
+  - RRV clan
+  - <https://twitter.com/WedidOfficial/status/1561138703417868289>
 - stream snipe in pro play?
-	- https://esports.gg/news/valorant/valorant-riot-outlaws-vct-stream-sniping/
-	- https://twitter.com/x0tek/status/1488602393097175040
+  - <https://esports.gg/news/valorant/valorant-riot-outlaws-vct-stream-sniping/>
+  - <https://twitter.com/x0tek/status/1488602393097175040>
 - cheating
-	- Vanguard - https://support-valorant.riotgames.com/hc/en-us/articles/360046160933-What-is-Vanguard
-	- overall these issues can't be confirmed, only speculated
+  - Vanguard - <https://support-valorant.riotgames.com/hc/en-us/articles/360046160933-What-is-Vanguard>
+  - overall these issues can't be confirmed, only speculated

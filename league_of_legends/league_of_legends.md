@@ -1,34 +1,33 @@
-- League of Legends - Riot games game too
-	- gameplay
-	- streamsniping is not as effective as in FPS games, where information is huge part of the game, but still common
-	- cryptothrowing - https://www.youtube.com/watch?v=NDDmGHhzzQE
-		- confirmed by Riot Korea - https://www.invenglobal.com/articles/12886/riot-korea-announces-measures-to-combat-intentional-griefing-in-relation-to-illegal-chinese-gambling-websites
-		- South Korea government ban - https://sea.ign.com/esports/144233/news/south-korea-makes-boosting-other-players-game-levels-illegal
-	- ranked issues for pro players
-		- no comms
-		- high ping (only NA and EU, KR an CN almost LAN ping)
-		- OTPs
-			- https://www.leagueofgraphs.com/summoner/euw/Worst+Zac+EUW
-			- https://www.leagueofgraphs.com/summoner/euw/Utti
-		- non META champs
-			- https://www.leagueofgraphs.com/summoner/na/375+Benchpress
-		- teamplay is not as good as in pro play
-	- champions queue
-		- but only for pro players and special invites
-		- pros
-			- auto-tweet bot https://twitter.com/ChampionsQueue
-			- META champs played only
-			- comms via discord
-			- players are used to playing organized
-			- no fill like in ranked
-			- better ping
-		- issues
-			- small pool of players
-			- not everyone in CQ plays it - actively/at all
-			- skill gap - highest league vs collegiate league
-		- CQ NA
-			- 183 players
-			- less toxicity (zven rjs drama https://www.youtube.com/watch?v=pXEJsnuXzYw)
-			- daily between 6pm - 1am Pacific Time, as well as 10am - 1am PST on Monday
-			
+# League of Legends - Riot games game too
 
+- gameplay
+- streamsniping is not as effective as in FPS games, where information is huge part of the game, but still common
+- throwing - <https://www.youtube.com/watch?v=NDDmGHhzzQE>
+  - confirmed by Riot Korea - <https://www.invenglobal.com/articles/12886/riot-korea-announces-measures-to-combat-intentional-griefing-in-relation-to-illegal-chinese-gambling-websites>
+  - South Korea government ban - <https://sea.ign.com/esports/144233/news/south-korea-makes-boosting-other-players-game-levels-illegal>
+- ranked issues for pro players
+- no comms
+  - high ping (only NA and EU, KR an CN almost LAN ping)
+  - OTPs
+    - <https://www.leagueofgraphs.com/summoner/euw/Worst+Zac+EUW>
+    - <https://www.leagueofgraphs.com/summoner/euw/Utti>
+  - non META champs
+    - <https://www.leagueofgraphs.com/summoner/na/375+Benchpress>
+  - teamplay is not as good as in pro play
+- champions queue
+  - but only for pro players and special invites
+  - pros
+    - auto-tweet bot <https://twitter.com/ChampionsQueue>
+    - META champs played only
+    - comms via discord
+    - players are used to playing organized
+    - no fill like in ranked
+    - better ping
+  - issues
+    - small pool of players
+    - not everyone in CQ plays it - actively/at all
+    - skill gap - highest league vs collegiate league
+  - CQ NA
+  - 183 players
+  - less toxicity (zven rjs drama <https://www.youtube.com/watch?v=pXEJsnuXzYw>)
+  - daily between 6pm - 1am Pacific Time, as well as 10am - 1am PST on Monday
