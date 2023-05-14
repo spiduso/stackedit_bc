@@ -31,7 +31,7 @@ NeatQueue is a Discord bot for custom matchmaking. It supports different types o
 
 ## Pro City updates
   
-- allowed by Riot
+- allowed by Riot, I could not find a rule for forbidding third party matchmaking + they did not shut down NeatQueue or FACEIT third party matchmaking
 - prizepool
 - issues
   - inactivity

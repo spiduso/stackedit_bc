@@ -1,3 +1,7 @@
+---
+number-sections: true
+---
+
 # Valorant
 
 Valorant is an online first-person shooter developed by Riot Games. They created many successful titles like MOBA[^MOBA] game called League of Legends, online card game Legends of Runeterra, mobile game League of Legends: Wild Rift.
@@ -105,38 +109,25 @@ A player can create a custom game, where player can invite other players and fre
 
 This game mode is equivalent to the main gameplay, but players are evaluated based on their performance. When a player begins his competitive journey, the player plays five opening games after which the player gets a rank and a tier with a 50 rank rating (RR).
 
-#### Acts [TODO]
+Competitive season is divided into episodes which is the size of an event. Each episode has 3 acts and an Act is a competitive time period. After each episode, player gets reward for playing competitive mode[^AE].
+
+[^AE]: <https://support-valorant.riotgames.com/hc/en-us/articles/4404105411475-Act-Ranks-and-Rewards>
 
 #### Rank system
 
 Players are divided into ranks based on their matchmaking rating (or MMR[^MMR][^API]). Most of the ranks have three tiers: 1, 2, and 3; the higher the better. Players get a higher tier if they reach 100 RR or they drop down a tier if they lose a game with 0 RR. After reaching tier 3 and 100 RR they rank up, or after losing a game at tier 1 with 0 RR they drop down a rank. Ranking for Immortal and Radiant works differently, the threshold for Immortal and Radiant is different for each region. Also, there can be only 500 players in Radiant in each region.
 
-<table>
-  <tr>
-    <th>Rank</th>
-    <td>Iron</td>
-    <td>Bronze</td>
-    <td>Silver</td>
-    <td>Gold</td>
-    <td>Platinum</td>
-    <td>Diamond</td>
-    <td>Ascendant</td>
-    <td>Immortal</td>
-    <td>Radiant</td>
-  </tr>
-  <tr>
-    <th>Tiers</th>
-    <td>3</td>
-    <td>3</td>
-    <td>3</td>
-    <td>3</td>
-    <td>3</td>
-    <td>3</td>
-    <td>3</td>
-    <td>3</td>
-    <td>1</td>
-  </tr>
-</table>
+
+| Rank | Tiers |
+| ---- | -- |
+| Iron | 3 |
+| Silver | 3 |
+| Gold | 3 |
+| Platinum | 3 |
+| Diamond | 3 |
+| Ascendant | 3 |
+| Immortal | 3 |
+| Radiant | 1 |
 
 Example of Immortal and Radiant thresholds in EU region[^threshold]:
 
@@ -204,6 +195,8 @@ Outside practicing, competing and resting, pro players often stream their Valora
 
 Riot games have not officially reacted to sniping or crypto-throwing, but in their early patches[^patch], they added option to hide player's name outside player's party and hide names of others outside player's party[^hide].
 
+The issues that I am going to discuss below is very hard to punish since these unfair methods are hard or almost impossible to prove. Streamers can only speculate if the issues are really happening to them, but the odds of them happening naturally is almost null.
+
 [^patch]: Patch or patch notes are updates to a game to make a game more fair and enjoyable. <https://valorant.fandom.com/wiki/Patch_Notes>
 
 [^hide]: <https://playvalorant.com/en-gb/news/game-updates/valorant-patch-notes-1-07>
@@ -232,19 +225,46 @@ Many streamers[^complain] have complaint since the beginning of the game, that s
 
 #### Stream-sniping in pro play
 
-Before 1st of February 2022 there was no rule that would forbid coaches to watch live their team play on official Riot stream. Basically coaches could stream-snipe enemy team  and then suggest a counter-strategy during breaks or between games, when coaches are allowed to talk to coach's team. This matter was brought up[^broughtup] by coach of Soniqs that time during Nerd Street Gamers: Winter Championship and was confirmed[^confirm] by NSG Josie - Esports Operations Manager for Nerd Street. Since this was a huge issue, a few hours later, Josie informed about NSG and VCT rule book update that prohibited coaches from watching live broadcast of their teams playing[^update].
+Before 1st of February 2022 there was no rule that would forbid coaches to watch live their team play on official Riot stream. Basically coaches could stream-snipe enemy team and then suggest a counter-strategy during breaks or between games, when coaches are allowed to talk to the team. This matter was brought up[^broughtup] by x0tek, coach of Soniqs at that time during Nerd Street Gamers: Winter Championship and was confirmed[^confirm] by NSG Josie - Esports Operations Manager for Nerd Street that there is no rule that would prevent stream sniping, so it is allowed to do. Since this was a huge issue, a few hours later, Josie informed about NSG and VCT rule book update that prohibited coaches from watching live broadcast of their teams playing[^update].
 
 [^confirm]: <https://twitter.com/sullycasts/status/1488637656053526537>
 [^broughtup]: <https://twitter.com/x0tek/status/1488602393097175040>
 [^update]: <https://twitter.com/x0tek/status/1488660037572702214>
   
-### Crypto-throwing
+### Crypto-throwing[TODO]
 
-- betting sites are not public, since its against valorant rules and thats why we can sometimes only see tweets about it
-- RRV clan
-- <https://twitter.com/WedidOfficial/status/1561138703417868289>
+Intentional throwing is when a player makes bad play or annoys teammates on purpose (for example, let enemy kills the player for free creating disadvantage or standing in front of teammate's point of view to block vision).
 
-### Possible solutions
+In other games (League of Legends) it is proved that some players threw their games on purpose for financial gain, but in Valorant there is a new phenomenon called crypto-throwing. Throwers do not gain real money, but cryptocurrency.
+
+Pro player TDAWGG brought this issue in his youtube video[^TDAWGG] where he exposed a large amount of accounts that crypto-throws games mostly in Immortal and Radiant lobbies. He was in a call with Missing, who was allegedly in inner circle of crypto-throwing scene.
+After the video was posted, he did clear up a large part of the account on Twitter[^clearup] and he followed it up with second video[^TDAWGG2], clearing up some names and giving more insight.
+
+Betting sites and discord servers where players teamed up to crypto-throw are all private only for the crypto-throwing community and thats why multiple people only shared a screenshot of those sites.
+
+Another pro player Shahzam accused RRV clan of crypto-throwing. But the creator of the clan WestJett[^WestJett] answered in his video where he said that some people were involved but kicked off the clan.
+
+One of the first mentions about crypto-throwing was shared by a pro player WeDid on his Twitter account[^WeDid], where he shared a screenshot of a crypto-betting website.
+
+[^TDAWGG]: <https://www.youtube.com/watch?v=twTLTU7-MXU>
+
+[^clearup]: <https://twitter.com/tdawggVAL/status/1611986387904958464>
+
+[^TDAWGG2]: <https://www.youtube.com/watch?v=3askBF5DoDo>
+
+[^WestJett]: <https://www.youtube.com/watch?v=et_6o7orRyQ>
+
+[^WeDid]: <https://twitter.com/WedidOfficial/status/1561138703417868289>
+
+[TODO]
+
+[^Shahzam]: video with cryptothrowers <https://www.youtube.com/watch?v=BXzIw2Gg7WI>
+
+shanks thrower
+clip - <https://www.youtube.com/watch?v=BSsl-w9HMUQ>
+full video - <https://www.youtube.com/watch?v=AgJFwh7CJS4>
+
+### Possible solutions [TODO]
 
 - stream delay
   - not optimal for interaction between streamer and viewers
